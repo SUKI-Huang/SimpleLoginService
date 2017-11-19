@@ -1,6 +1,6 @@
 # Simple Login Service
 
-this project is a simple sample how to login facebook on Android device and store user information on Microsoft Azure SQL Database via Microsoft Azure Functions 
+This project is a sample, implement facebook login on Android device and store user information on Microsoft Azure by using Azure SQL Database and Azure Functions 
 
 # Skills
 
