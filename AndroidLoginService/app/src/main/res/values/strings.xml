@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginService</string>
+    <string name="app_id_fb">{your facebook id}</string>
+    <string name="fb_login_protocol_scheme">fb{your facebook id}</string>
+</resources>
